@@ -21,4 +21,5 @@ desktop.ini
 *.log
 npm-debug.log*
 
+# Ignore separate site repos
 sites/
